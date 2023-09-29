@@ -1,0 +1,78 @@
+/* Estilos para la barra de navegación */
+nav {
+    background-color: #333;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #111;
+  }
+  
+  /* Estilos para las secciones */
+  section {
+    margin-top: 50px;
+  }
+  
+  section h1 {
+    font-size: 24px;
+  }
+  
+  section p {
+    font-size: 16px;
+  }
+  
+  section img {
+    max-width: 100%;
+  }
+
+  nav ul li a {
+    transition: all 0.5s ease;
+  }
+
+  #logros ul li {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;
+
+  }
+
+  #sobre h1{
+    text-align: center;
+
+}
+
+#sobre p{
+    text-align: center;
+
+}
+
+
+#pie{
+
+  text-align: center;
+
+}
+
+#inventos ul li{
+
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding-bottom: 30px;
+
+
+} 
